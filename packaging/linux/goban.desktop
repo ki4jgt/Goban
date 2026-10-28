@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Goban
+GenericName=Go Client
+Comment=Play and watch Go on online-go.com
+Exec=@EXEC@
+Icon=goban
+Terminal=false
+Categories=Game;BoardGame;
+Keywords=go;baduk;weiqi;igo;ogs;
+StartupWMClass=Goban

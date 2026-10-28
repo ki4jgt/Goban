@@ -1,0 +1,7 @@
+# Tested with pyglet 2.0.x; 2.1 changed parts of the sprite/label API.
+pyglet>=2.0.15,<2.1
+numpy
+scipy
+requests
+certifi
+websocket-client
